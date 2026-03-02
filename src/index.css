@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+li{
+  margin-left:20px;
+}
+
+ul li {
+  text-decoration:none;
+  
+    font-weight:bold;
+}
